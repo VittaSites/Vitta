@@ -97,8 +97,8 @@ main {
 .btn {
   display: inline-block;
   padding: 0.75rem 2rem;
-  background-color: #FE2C55;
-  color: var(--preto);
+  background-color: #2c52fe;
+  color: var(--branco);
   border-radius: 999px;
   font-weight: bold;
   text-decoration: none;
